@@ -1,8 +1,8 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://user-kumar.github.io
-title: kumar
+url: http://kumar.github.io
+title: simpletest1
 tagline: A log of everyday life
 description: My awesome new site
 paginate: 5
